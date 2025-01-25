@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luisf-gmz
 - 👀 I’m interested in learning about AI and coding languages.
-- 🌱 I’m currently learning data analytics and AI with Python
-- 📫 How to reach me on linkedin (https://www.linkedin.com/in/luisfgomezguzman/)
+- 🌱 I’m currently learning about cybersecurity, data analytics and AI with Python.
 
 <!---
 luisf-gmz/luisf-gmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
