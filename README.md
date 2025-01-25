@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luisf-gmz
 - 👀 I’m interested in learning about AI and coding languages.
 - 🌱 I’m currently learning data analytics and AI with Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin (https://www.linkedin.com/in/luisfgomezguzman/)
 
 <!---
