@@ -18,7 +18,7 @@
 Trying to follow technology, data, security and its legal and social implications; in the process I'm curious about competition and international law, but really of any subject.
 
 - 👨🏽‍💻 Building proficiency in **Python** and data-driven legal tools
-- 📚 Continuously training in **ciberseguridad**, **AI applied to law**, and **Legal Tech**
+- 📚 Continuously training in **cybersecurity**, **AI applied to law**, and **Legal Tech**
 - 🤙🏽 Open to collaboration on privacy, compliance, and legal automation projects
 
 ---
@@ -34,10 +34,13 @@ Intentando seguir la tecnología, los datos, la seguridad y sus implicaciones le
 
 ### Legal & Compliance
 
+![DPO](https://img.shields.io/badge/DPO%2FDPD-Certified-1a1a2e?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 ![GDPR](https://img.shields.io/badge/GDPR-Specialist-003087?style=for-the-badge&logo=europeanunion&logoColor=white)
 ![LOPDGDD](https://img.shields.io/badge/LOPDGDD-Specialist-c60b1e?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Specialist-00539C?style=for-the-badge&logo=iso&logoColor=white)
 ![ENS](https://img.shields.io/badge/ENS-Esquema_Nacional_de_Seguridad-c60b1e?style=for-the-badge)
-![DPO](https://img.shields.io/badge/DPO%2FDPD-Certified-1a1a2e?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+
+
 
 ### Programming & Data
 
@@ -51,6 +54,7 @@ Intentando seguir la tecnología, los datos, la seguridad y sus implicaciones le
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
